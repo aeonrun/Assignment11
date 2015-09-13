@@ -1,0 +1,184 @@
+body .wrap{
+	width:100%;
+	border:0px;
+	margin:0px;
+	padding:0px;
+	height:1000px;
+	background: #ffffff;
+
+}
+
+.sidebar{
+	width:250px;
+	border:0px;
+	margin:0px;
+	padding:0px;
+	height:50px;
+	background: transparent; /* #C5CFDD; */
+	float:left;
+}
+
+.assignmentList{
+	/*display:none;*/
+	cursor: pointer;
+}
+
+
+#mainSection{
+	width:100%;
+	border:0px;
+	margin-left:0px;
+	padding:0px;
+	height:700px;
+	background: trasparent;	
+	border:0px solid black;
+}
+
+iframe {
+	width:100%;
+	border:0px;
+	margin-left:20px;
+	padding:0px;
+	height:700px;
+	background: transparent;
+	border:0px solid black;
+}
+
+
+#assignment{
+	text-align: center;
+	border:0px;
+	margin:0px;
+	padding-right:0px;
+	padding-left:0px;
+	padding-top: 10px;
+	text-transform: uppercase;
+	font-size: 12pt;
+	cursor: pointer;
+	color: #1782EA;
+	background-color:transparent;
+}
+
+#assignment:hover{
+	text-decoration: underline;
+	background-color:transparent;
+	color:orange;
+}
+
+
+#description{
+	border:0px;
+	margin:0px;
+	padding:0px;
+}
+
+#one,#two,#three,#four,#five,#six,#seven,#eight,#nine,#nineb,#ten,#eleven {
+	text-align: left;
+	padding-left:2px;
+	margin-top:0px;
+	padding-top:0px;
+	font-size: 12pt;
+	color: #1782EA;
+	/*transition: width 2s;*/
+	display:none;
+	cursor: pointer;
+}
+
+#one:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#two:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#three:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#four:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#five:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#six:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#seven:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#eight:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#nine:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#nineb:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#ten:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+#eleven:hover {
+	width:300px;
+	background-color: #1782EA;
+	color:white;
+}
+
+.one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.nineb,.ten,.eleven{
+	padding-left:5px;
+	font-size:12pt;
+}
+
+a:link{
+	text-decoration: none;
+	color:#1782EA;
+}
+
+a:visited{
+	text-decoration: none;
+	color:#1782EA;
+}
+
+a:hover{
+	color:white;
+}
+
+#github{
+	width:30px;
+	height:30px;
+	margin-left:10px;
+	padding-top:10px;
+}
+
